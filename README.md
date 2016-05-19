@@ -9,6 +9,10 @@ And here's a GIF showing the CSS injecting.
 
 ![GIF](http://f.cl.ly/items/373y2E0e0i2p0E2O131g/test-gif.gif)
 
+# Note
+
+This repository has been forked from [shakyShane](https://github.com/shakyShane/jekyll-gulp-sass-browser-sync) and updated following [this blog post](http://theblog.unpixel.fr/2015-11-15-better-jekyll-workflow-with-gulp/)
+
 ## System Preparation
 
 To use this starter project, you'll need the following things installed on your machine.
